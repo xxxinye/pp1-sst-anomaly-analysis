@@ -2,6 +2,8 @@
 
 This is a small beginner project exploring [sea surface temperature (SST) anomalies] using daily data from the [Copernicus Marine Service]. It combines both [Python] and [R] to analyze and visualize ocean temperature variation for Southeast Asia.
 
+This project was developed with AI-assisted guidance, as part of personal learning.
+
 ---
 
 ## Project Structure
