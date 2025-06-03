@@ -28,6 +28,7 @@ sea surface temperature anomalies/
 **Time Range:** 2025-05-01 to 2025-05-31  
 **Format:** NetCDF (.nc)  
 **Region:** Southeast Asia
+
 	⚠️ Note: The bounding box was drawn manually and does not follow any precise geographic or political boundaries. You are encouraged to define your own region of interest based on your project goals or study area.
 
 Downloaded from: [Copernicus Marine Data Store](https://marine.copernicus.eu)
