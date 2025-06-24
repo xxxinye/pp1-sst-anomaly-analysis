@@ -8,18 +8,18 @@ This project was developed with AI-assisted guidance, as part of personal learni
 
 ## Project Structure
 
-sea surface temperature anomalies/
-├── data/
-│ └── cmems_mod_glo_phy_anfc_*.nc # Raw NetCDF data from Copernicus
-├── scripts/
-│ ├── Sea_Surface_Temperature_Anomaly.py         # Python script used in PyCharm for initial data exploration
-│ ├── load_netcdf_in_r.R                         # R script to load NetCDF file
-│ ├── calculate_daily_max_r.R                    # R script to compute daily max SST anomaly
-│ └── plot_data_r.R                              # R script for visualization
-├── outputs/
-│ ├── daily_max_sst_anomaly_python.csv           # Max grid anomaly (daily) from Python
-│ └── daily_max_sst_anomaly_r.csv                # Max grid anomaly (daily) from R
-└── README.md
+sea surface temperature anomalies/  
+├── data/  
+│ └── cmems_mod_glo_phy_anfc_*.nc # Raw NetCDF data from Copernicus  
+├── scripts/  
+│ ├── Sea_Surface_Temperature_Anomaly.py         # Python script used in PyCharm for initial data exploration  
+│ ├── load_netcdf_in_r.R                         # R script to load NetCDF file  
+│ ├── calculate_daily_max_r.R                    # R script to compute daily max SST anomaly  
+│ └── plot_data_r.R                              # R script for visualization  
+├── outputs/  
+│ ├── daily_max_sst_anomaly_python.csv           # Max grid anomaly (daily) from Python  
+│ └── daily_max_sst_anomaly_r.csv                # Max grid anomaly (daily) from R  
+└── README.md  
 
 ---
 
